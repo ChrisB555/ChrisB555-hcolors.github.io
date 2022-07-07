@@ -1,0 +1,18 @@
+* {
+    background-color: rgb(241, 253, 251);
+}
+h1{
+    color:blue;
+}
+h2{
+    color:rgb(101, 64, 135);
+}
+h3{
+    color: #ff23ff;
+}
+h4{
+    color:hsl(100,70%,50%);
+}
+div{
+    background-color: rgb(255, 248, 155);
+}
